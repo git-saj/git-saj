@@ -1,3 +1,4 @@
+```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
@@ -10,3 +11,4 @@ CgkQSCUGDxIItdbUzQD+OZrGF4hdDBFVeJPbu5fFWU3zZRgmqk8TklU0p1IAw5oB
 AIKdTsMRkJGjRE/+J1kuTy25jaUHdbzzFykX7zuDydcM
 =Uap7
 -----END PGP SIGNATURE-----
+```
